@@ -1,0 +1,1 @@
+{"actuals": {"raw_rows": 1488, "null_or_malformed_dropped": 0, "duplicates_dropped": 0, "clean_rows": 1488}, "forecasts": {"raw_rows": 18688, "null_or_malformed_dropped": 0, "duplicates_dropped": 0, "clean_rows": 18688}}
